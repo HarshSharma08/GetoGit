@@ -1,0 +1,36 @@
+body {
+    font-size: 1.5em;
+}
+
+.brand {
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.5em;
+    
+}
+
+.brand:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
+.boxx {
+    border: 2px solid #fff;
+    border-radius: 25px;
+    padding-right: 20px;
+}
+
+.colour{
+    background-color: #1da7dd;
+}
+
+
+.boxxx {
+    padding-right: 20px; 
+}
+
+.logout-box:hover {
+    cursor: pointer;
+
+}
+
